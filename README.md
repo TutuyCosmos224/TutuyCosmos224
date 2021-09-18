@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TutuyCosmos224
-- 👀 I’m interested in game development and software engineering in general
-- 🌱 I’m currently learning HTML5, JavaScript, and CSS3 to build my own website
+- 👀 I’m interested in game development, website development and software engineering in general
+- 🌱 I’m currently learning Java Script in depth, and also starting to learn reactJS.
 
 - 📫 Contact me on https://www.linkedin.com/in/hansenemanuel/
 - ❤ Thank you! ❤
