@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TutuyCosmos224
+- 👋 Hi, I’m Hansen Emanuel @TutuyCosmos224
 - 👀 I’m interested in game development, website development and software engineering in general
-- 🌱 I’m currently learning Java Script in depth, and also starting to learn reactJS.
+- 🌱 I’m currently learning Java Script in depth, and also starting to learn reactJS and Node.js.
 
 - 📫 Contact me on https://www.linkedin.com/in/hansenemanuel/
+- 📶 Or checkout my portfolio website https://hansenemanuel.netlify.app/
 - ❤ Thank you! ❤
 
 <!---
