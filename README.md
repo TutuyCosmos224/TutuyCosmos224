@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hansen Emanuel @TutuyCosmos224
 - 👀 I’m interested in game development, website development and software engineering in general
 - 🌱 I’m currently learning Java Script in depth, and also starting to learn reactJS and Node.js.
+- 🏆 1st Prize BGD Jam 2021 and Top 40 in DKI Jakarta Province in National Science Olympiad (OSN) Computer Subject
 
 - 📫 Contact me on https://www.linkedin.com/in/hansenemanuel/
 - 📶 Or checkout my portfolio website https://hansenemanuel.netlify.app/
